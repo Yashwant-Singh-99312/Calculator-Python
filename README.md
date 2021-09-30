@@ -2,7 +2,7 @@
 
 This is a python project to help show how python works!:
 ```
-- Ultimately, it's to teach YOU how you can do this yourself!
+- Ultimately, it's to teach you how you can do this yourself!
 - Commented throughly to help you understand!
 - Different ways you can create a calculator program, explore yours!
 - NOTE : We will be focused on Python 3.
@@ -21,7 +21,7 @@ This is a python project to help show how python works!:
 	- Subtraction
 	- Multiplication
 	- Division
-- Squareroot of a number
+- Square-root of a number
 - Degree to Radian Conversion
 - Radian to Degree Conversion
 ```
